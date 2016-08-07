@@ -7,6 +7,12 @@ assist in his physics classroom instructions.
 Visual Studio is required, and these applications only work on Windows. After
 cloning this repository, launch the desired solution and build the project.
 
+## Distributing
+To use the apps standalone without visual studio, then you only need to copy
+the bin folder of your desired app wherever you wish and rename it to
+whatever you want. Visual Studio is always required to build it the first time
+though.
+
 ## General use
 Each application is an entirely local win-forms app. Each has a help page built
 into it to describe the proper use and purpose of the application, but a high
