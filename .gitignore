@@ -1,2 +1,6 @@
-*ThinFilmOptics/ThinFilmOptics/bin/*
-*ThinFilmOptics/ThinFilmOptics/obj/*
+ThinFilmOptics/ThinFilmOptics/bin/*
+ThinFilmOptics/ThinFilmOptics/obj/*
+ElectronOrbitals/ElectronOrbitals/bin/*
+ElectronOrbitals/ElectronOrbitals/obj/*
+BlackBodyRadiationApplication/BlackBodyRadiationApplication/bin/*
+BlackBodyRadiationApplication/BlackBodyRadiationApplication/obj/*
