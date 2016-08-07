@@ -1,8 +1,0 @@
-D:\Users\BoTheMasterOfAll\Documents\Visual Studio Projects\Visualization of Materials Science\ThinFilmOptics\ThinFilmOptics\bin\Debug\ThinFilmOptics.exe.config
-D:\Users\BoTheMasterOfAll\Documents\Visual Studio Projects\Visualization of Materials Science\ThinFilmOptics\ThinFilmOptics\bin\Debug\ThinFilmOptics.exe
-D:\Users\BoTheMasterOfAll\Documents\Visual Studio Projects\Visualization of Materials Science\ThinFilmOptics\ThinFilmOptics\bin\Debug\ThinFilmOptics.pdb
-D:\Users\BoTheMasterOfAll\Documents\Visual Studio Projects\Visualization of Materials Science\ThinFilmOptics\ThinFilmOptics\obj\Debug\ThinFilmOptics.Form1.resources
-D:\Users\BoTheMasterOfAll\Documents\Visual Studio Projects\Visualization of Materials Science\ThinFilmOptics\ThinFilmOptics\obj\Debug\ThinFilmOptics.Properties.Resources.resources
-D:\Users\BoTheMasterOfAll\Documents\Visual Studio Projects\Visualization of Materials Science\ThinFilmOptics\ThinFilmOptics\obj\Debug\ThinFilmOptics.csproj.GenerateResource.Cache
-D:\Users\BoTheMasterOfAll\Documents\Visual Studio Projects\Visualization of Materials Science\ThinFilmOptics\ThinFilmOptics\obj\Debug\ThinFilmOptics.exe
-D:\Users\BoTheMasterOfAll\Documents\Visual Studio Projects\Visualization of Materials Science\ThinFilmOptics\ThinFilmOptics\obj\Debug\ThinFilmOptics.pdb

@@ -1,8 +1,0 @@
-D:\Users\BoTheMasterOfAll\Documents\Visual Studio Projects\Visualization of Materials Science\BlackBodyRadiationApplication\BlackBodyRadiationApplication\bin\Release\BlackBodyRadiationApplication.exe.config
-D:\Users\BoTheMasterOfAll\Documents\Visual Studio Projects\Visualization of Materials Science\BlackBodyRadiationApplication\BlackBodyRadiationApplication\bin\Release\BlackBodyRadiationApplication.exe
-D:\Users\BoTheMasterOfAll\Documents\Visual Studio Projects\Visualization of Materials Science\BlackBodyRadiationApplication\BlackBodyRadiationApplication\bin\Release\BlackBodyRadiationApplication.pdb
-D:\Users\BoTheMasterOfAll\Documents\Visual Studio Projects\Visualization of Materials Science\BlackBodyRadiationApplication\BlackBodyRadiationApplication\obj\Release\BlackBodyRadiationApplication.Form1.resources
-D:\Users\BoTheMasterOfAll\Documents\Visual Studio Projects\Visualization of Materials Science\BlackBodyRadiationApplication\BlackBodyRadiationApplication\obj\Release\BlackBodyRadiationApplication.Properties.Resources.resources
-D:\Users\BoTheMasterOfAll\Documents\Visual Studio Projects\Visualization of Materials Science\BlackBodyRadiationApplication\BlackBodyRadiationApplication\obj\Release\BlackBodyRadiationApplication.csproj.GenerateResource.Cache
-D:\Users\BoTheMasterOfAll\Documents\Visual Studio Projects\Visualization of Materials Science\BlackBodyRadiationApplication\BlackBodyRadiationApplication\obj\Release\BlackBodyRadiationApplication.exe
-D:\Users\BoTheMasterOfAll\Documents\Visual Studio Projects\Visualization of Materials Science\BlackBodyRadiationApplication\BlackBodyRadiationApplication\obj\Release\BlackBodyRadiationApplication.pdb
